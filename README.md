@@ -1,1 +1,1 @@
-Note that the original ISOT Fake news dataset as well as the pre-processed version is available on the following Google Drive link: https://drive.google.com/drive/folders/1t5-Jr8jcoxpxxMO19lkniAOtDlB6XOC1?usp=sharing
+The original ISOT Fake news dataset as well as the pre-processed version is available on the following Google Drive link: https://drive.google.com/drive/folders/1t5-Jr8jcoxpxxMO19lkniAOtDlB6XOC1?usp=sharing
